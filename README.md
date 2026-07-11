@@ -1,4 +1,4 @@
-# 📈 Retail Sales Forecasting & Demand Analytics Dashboard
+# 📈 Sales Forecasting Dashboard
 
 A complete **Data Science and Machine Learning project** that analyzes historical retail sales data, forecasts future sales, detects anomalies, segments products based on demand, and presents all insights through an interactive **Streamlit dashboard**.
 
@@ -62,7 +62,7 @@ The solution provides:
 # 📂 Project Structure
 
 ```
-SalesForecasting/
+Sales_Forecasting_Dashboard/
 │
 ├── Home.py
 ├── train.csv
@@ -252,13 +252,13 @@ Pages:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Retail-Sales-Dashboard.git
+git clone https://github.com/Deepthikarani/Sales_Forecasting_Dashboard.git
 ```
 
 Move into the project
 
 ```bash
-cd Retail-Sales-Dashboard
+cd Sales_Forecasting_Dashboard
 ```
 
 Install dependencies
