@@ -97,7 +97,7 @@ Sales_Forecasting_Dashboard/
 
 Dataset used:
 
-**Retail Superstore Sales Dataset**
+**Superstore Sales Dataset**
 
 Main attributes include:
 
@@ -282,7 +282,7 @@ The application is deployed using **Streamlit Community Cloud**.
 Live Demo:
 
 ```
-https://your-streamlit-app.streamlit.app
+(https://salesforecasting-sp2wbzz4alpt6wdzkc5cyr.streamlit.app)
 ```
 
 ---
